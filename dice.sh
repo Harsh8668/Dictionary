@@ -9,4 +9,4 @@ dice[e]=$((RANDOM%6+1))
 dice[f]=$((RANDOM%6+1))
 
 
-echo "Values of dice is :" ${dice[@]}
+echo "Values of dice are :" ${dice[@]}
